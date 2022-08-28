@@ -68,28 +68,24 @@ self.__precacheManifest = [
     "url": "/React_Portfolio/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "4ea3794d631bedab7999678f46b0a162",
-    "url": "/React_Portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
+    "revision": "386f05946a76935fcabf319affff517a",
+    "url": "/React_Portfolio/static/media/CentraNo2-Book.386f0594.ttf"
   },
   {
     "revision": "63911e8535278ced52b8a37e819f6f5d",
     "url": "/React_Portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
-    "revision": "386f05946a76935fcabf319affff517a",
-    "url": "/React_Portfolio/static/media/CentraNo2-Book.386f0594.ttf"
-  },
-  {
-    "revision": "5f3ca49706055342e92708c7dd31849f",
-    "url": "/React_Portfolio/static/media/banner-bg.5f3ca497.png"
+    "revision": "4ea3794d631bedab7999678f46b0a162",
+    "url": "/React_Portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
     "revision": "e9228c17c13a87653f1b8ed01a3ff306",
     "url": "/React_Portfolio/static/media/footer-bg.e9228c17.png"
   },
   {
-    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
-    "url": "/React_Portfolio/static/media/revicons.2feb69cc.eot"
+    "revision": "5f3ca49706055342e92708c7dd31849f",
+    "url": "/React_Portfolio/static/media/banner-bg.5f3ca497.png"
   },
   {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
@@ -98,6 +94,10 @@ self.__precacheManifest = [
   {
     "revision": "17629a5dfe0d3c3946cf401e1895f091",
     "url": "/React_Portfolio/static/media/revicons.17629a5d.ttf"
+  },
+  {
+    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
+    "url": "/React_Portfolio/static/media/revicons.2feb69cc.eot"
   },
   {
     "revision": "f750170aaddf4e5f885a27d391a311d9",
