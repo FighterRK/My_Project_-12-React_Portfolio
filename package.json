@@ -24,7 +24,7 @@
     "use-mailchimp-form": "^3.0.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://FighterRK.github.io/",
+  "homepage": "https://fighterrk.github.io/",
   "scripts": {
     "predeploy":"npm run build",
     "deploy" :"gh-pages -d build",
