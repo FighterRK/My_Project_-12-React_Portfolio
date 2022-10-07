@@ -24,7 +24,7 @@
     "use-mailchimp-form": "^3.0.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://fighterrk.github.io/",
+  "homepage": "https://fighterrk.github.io/My_Project_-12-React_Portfolio/",
   "scripts": {
     "predeploy":"npm run build",
     "deploy" :"gh-pages -d build",
